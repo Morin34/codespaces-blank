@@ -17,7 +17,7 @@ class Alumno:
 print("============Alumno numero 1============")        
 
 alumno1 = Alumno()
-alumno1.inicializar("Pablo", 10)
+alumno1.inicializar("Morin", 10)
 alumno1.imprimir()
 alumno1.mostrar_estado()
 
@@ -26,7 +26,7 @@ print("================================================================")
 print("============Alimno numero 1============")        
 
 alumno2 = Alumno()
-alumno2.inicializar("Carlos", 2)
+alumno2.inicializar("Gael", 2)
 alumno2.imprimir()
 alumno1.mostrar_estado() 
         
